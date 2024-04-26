@@ -1,0 +1,34 @@
+.h1_font {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+
+div{
+    margin-top: 20px;
+    margin-left: 25%;
+    width: 50%;
+}
+
+h3{
+    color: gold;
+    text-align: center;
+}
